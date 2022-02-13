@@ -5,6 +5,7 @@ Given an integer n, return all distinct solutions to the n-queens puzzle. You ma
 Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.  
 
 Example 1:  
+![image](https://user-images.githubusercontent.com/60777462/153738701-3114dcc8-9d38-43a3-b018-91f617e08f0e.png)  
 Input: n = 4  
 Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]  
 Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above  
