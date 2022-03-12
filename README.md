@@ -9,6 +9,7 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [18. 4Sum](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/array/0018%204Sum.md)  
 [54. Spiral Matrix](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/array/0054%20Spiral%20Matrix.md)  
 [74. Search a 2D Matrix](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/array/0074%20Search%20a%202D%20Matrix.md)  
+[334. Increasing Triplet Subsequence](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/array/0334%20Increasing%20Triplet%20Subsequence.md)  
 
 ## backtrack
 [17. Letter Combinations of a Phone Number](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/0017%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
@@ -21,15 +22,19 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [52. N-Queens II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/0052%20N-Queens%20II.md)  
 [78. Subsets](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/0078%20Subsets.md)  
 [90. Subsets II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/0090%20Subsets%20II.md)  
+[254. Factor Combinations](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/0254%20Factor%20Combinations.md)  
 [1219. Path with Maximum Gold](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/backtrack/1219%20Path%20with%20Maximum%20Gold.md)  
 
 ## binary search
 [33. Search in Rotated Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0033%20Search%20in%20Rotated%20Sorted%20Array.md)  
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0034%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)  
-
+[153. Find Minimum in Rotated Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+[162. Find Peak Element](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0162%20Find%20Peak%20Element.md)  
 
 ## bit manipulation
 [89. Gray Code](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/bit%20manipulation/0089%20Gray%20Code.md)  
+[191. Number of 1 Bits](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/bit%20manipulation/0191%20%20Number%20of%201%20Bits.md)  
+[201. Bitwise AND of Numbers Range](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/bit%20manipulation/0201%20Bitwise%20AND%20of%20Numbers%20Range.md#201-bitwise-and-of-numbers-range)  
 
 ## dynamic programming
 [10. Regular Expression Matching](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0010%20Regular%20Expression%20Matching.md)  
@@ -44,6 +49,10 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [121. Best Time to Buy and Sell Stock](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)  
 [122. Best Time to Buy and Sell Stock II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)  
 [139. Word Break](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0139%20Word%20Break.md)  
+[152. Maximum Product Subarray](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0152%20Maximum%20Product%20Subarray.md)  
+[198. House Robber](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0198%20House%20Robber.md)  
+[209. Minimum Size Subarray Sum](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0209%20Minimum%20Size%20Subarray%20Sum.md)  
+[213. House Robber II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0213%20House%20Robber%20II.md)  
 
 ## graph
 [130. Surrounded Regions](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0130%20Surrounded%20Regions.md)  
