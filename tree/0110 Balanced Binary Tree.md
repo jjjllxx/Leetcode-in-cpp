@@ -22,6 +22,7 @@ Constraints:
 The number of nodes in the tree is in the range [0, 5000].  
 -10^4 <= Node.val <= 10^4  
 
+## from up to bottom
 ``` cpp
 /**
  * Definition for a binary tree node.
@@ -43,6 +44,40 @@ public:
     bool isBalanced(TreeNode* root) {
         if (root==nullptr) return true;
         return abs(height(root->left)-height(root->right))<=1 && isBalanced(root->left) && isBalanced(root->right);
+    }
+};
+```
+
+## from bottom to up
+``` cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int dfs(TreeNode* node) {
+        if (node == nullptr) {
+            return 0;
+        }
+        int leftH = dfs(node->left);
+        int rightH = dfs(node->right);
+        if (leftH == -1 || rightH == -1 || abs(leftH - rightH) > 1) {
+            return -1;
+        }
+        else {
+            return max(leftH, rightH) + 1;
+        }
+    }
+    bool isBalanced(TreeNode* root) {
+        return dfs(root) >= 0;
     }
 };
 ```
