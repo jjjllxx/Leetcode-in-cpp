@@ -67,15 +67,26 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [130. Surrounded Regions](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0130%20Surrounded%20Regions.md)  
 [200. Number of Islands](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0200%20Number%20of%20Islands.md)  
 [547. Number of Provinces](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0547%20Number%20of%20Provinces.md)  
+[329. Longest Increasing Path in a Matrix](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0329%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)   
 [733. Flood Fill](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0733%20Flood%20Fill.md)  
 [997. Find the Town Judge](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0997%20Find%20the%20Town%20Judge.md#997-find-the-town-judge)  
 
 ## greedy algorithm
+[376. Wiggle Subsequence](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/greedy/0376%20Wiggle%20Subsequence.md)  
+[409. Longest Palindrome](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/greedy/0409%20Longest%20Palindrome.md)  
 
 ## hashtable
 [1.Two Sum](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0001%20Two%20Sum.md)  
+[49. Group Anagrams](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0049%20Group%20Anagrams.md)  
+[187. Repeated DNA Sequences](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0187%20Repeated%20DNA%20Sequences.md)  
+[217. Contains Duplicate](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0217%20Contains%20Duplicate.md)  
+[219. Contains Duplicate II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0219%20Contains%20Duplicate%20II.md)  
+[299. Bulls and Cows](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0299%20Bulls%20and%20Cows.md)  
+[389. Find the Difference](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/hashtable/0389%20Find%20the%20Difference.md)  
 
 ## heap
+[347. Top K Frequent Elements](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/heap/0347%20Top%20K%20Frequent%20Elements.md)  
+[373. Find K Pairs with Smallest Sums](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/heap/0373%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)  
 
 ## linked list
 [2.Add Two Numbers](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0002%20Add%20Two%20Numbers.md)  
@@ -84,6 +95,9 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [82. Remove Duplicates from Sorted List II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0082%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)  
 [142. Linked List Cycle II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0142%20Linked%20List%20Cycle%20II.md)  
 [143. Reorder List](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0143%20Reorder%20List.md)  
+[160. Intersection of Two Linked Lists](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0160%20Intersection%20of%20Two%20Linked%20Lists.md)  
+[382. Linked List Random Node](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0382%20Linked%20List%20Random.md%20Node.md)  
+[445. Add Two Numbers II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/linked%20list/0445%20Add%20Two%20Numbers%20II.md)  
 
 ## math
 [50. Pow(x, n)](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0050%20Pow(x%2C%20n).md)  
