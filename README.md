@@ -28,6 +28,7 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 ## binary search
 [33. Search in Rotated Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0033%20Search%20in%20Rotated%20Sorted%20Array.md)  
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0034%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)  
+[35. Search Insert Position](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0035%20Search%20Insert%20Position.md)  
 [153. Find Minimum in Rotated Sorted Array](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 [162. Find Peak Element](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/binary%20search/0162%20Find%20Peak%20Element.md)  
 
