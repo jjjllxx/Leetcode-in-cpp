@@ -102,11 +102,18 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 ## math
 [50. Pow(x, n)](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0050%20Pow(x%2C%20n).md)  
 [119. Pascal's Triangle II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0119%20Pascal's%20Triangle%20II.md)  
+[202. Happy Number](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0202%20Happy%20Number.md)  
+[258. Add Digits](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0258%20Add%20Digits.md)  
+[279. Perfect Squares](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0279%20Perfect%20Squares.md)  
+[319. Bulb Switcher](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0319%20Bulb%20Switcher.md)  
+[326. Power of Three](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/math/0326%20Power%20of%20Three.md)  
 
 ## queue & stack
 [20. Valid Parentheses](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/queue%20%26%20stack/0020%20Valid%20Parentheses.md)  
 [32. Longest Valid Parentheses](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/queue%20%26%20stack/0032%20Longest%20Valid%20Parentheses.md)  
 [150. Evaluate Reverse Polish Notation](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/queue%20%26%20stack/0150%20Evaluate%20Reverse%20Polish%20Notation.md)  
+[155. Min Stack](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/queue%20%26%20stack/0155%20Min%20Stack.md)  
+[239. Sliding Window Maximum](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/queue%20%26%20stack/0239%20Sliding%20Window%20Maximum.md)  
 
 ## sort
 [56. Merge Intervals](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/sort/0056%20Merge%20Intervals.md)  
@@ -117,6 +124,8 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [14. Longest Common Prefix](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/string/0014%20Longest%20Common%20Prefix.md)  
 [58. Length of Last Word](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/string/0058%20Length%20of%20Last%20Word.md)  
 [151. Reverse Words in a String](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/string/0151%20Reverse%20Words%20in%20a%20String.md)  
+[242. Valid Anagram](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/string/0242%20Valid%20Anagram.md)   
+[392. Is Subsequence](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/string/0392%20Is%20Subsequence.md)   
 
 ## tree
 [96. Unique Binary Search Trees](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/tree/0096%20Unique%20Binary%20Search%20Trees.md#96-unique-binary-search-trees)  
