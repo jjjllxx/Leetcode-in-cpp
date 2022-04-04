@@ -54,6 +54,14 @@ Python3 version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 [198. House Robber](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0198%20House%20Robber.md)  
 [209. Minimum Size Subarray Sum](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0209%20Minimum%20Size%20Subarray%20Sum.md)  
 [213. House Robber II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0213%20House%20Robber%20II.md)  
+[256. Paint House](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0256%20Paint%20House.md)  
+[264. Ugly Number II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0264%20Ugly%20Number%20II.md)  
+[265. Paint House II](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0265%20Paint%20House%20II.md)  
+[309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)  
+[322. Coin Change](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0322%20Coin%20Change.md)  
+[343. Integer Break](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0343%20Integer%20Break.md)  
+[368. Largest Divisible Subset](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0368%20Largest%20Divisible%20Subset.md)  
+[377. Combination Sum IV](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/dynamic%20programming/0377%20Combination%20Sum%20IV.md)  
 
 ## graph
 [130. Surrounded Regions](https://github.com/JinLexuan/Leetcode-in-cpp/blob/main/graph/0130%20Surrounded%20Regions.md)  
