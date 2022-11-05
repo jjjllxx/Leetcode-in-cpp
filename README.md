@@ -1,4 +1,5 @@
 # Leetcode-in-cpp
+力扣cpp解法，按照算法类型分类，持续更新中。  
 Leetcode question cpp solution, updating.  
 Including array, backtrack, binary search, bit manipulation, dynamic programming,graph, greedy algorithm, hashtable, heap, linked list, math, queue & stack, string, tree and two pointer.  
 Named with question number and question name.  
