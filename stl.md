@@ -53,7 +53,7 @@ std::unordered_set<int> ust;
 
 ust.insert(1);
 ust.emplace(2);
-const bool isFound = (ust.find(1) != ust.end())
+const bool hasFound = (ust.find(1) != ust.end())
 ust.erase(2);
 ```
 
@@ -70,9 +70,38 @@ const int ub4 = *st.upper_bound(4); // returns an iterator to the first element 
 
 # Functions
 ## std::hypot
+Computes the square root of the sum of squares of its arguments.
 ``` cpp
 #include<cmath>
 std::hypot(x, y); // return the square root of (x * x + y * y) 
 std::hypot(x, y, z); // return the square root of (x * x + y * y + z * z) 
 ```
 ## std::distance
+Calculates the distance between two iterators from same container.
+``` cpp
+std::vector<int> v{ 3, 1, 4 };
+const int b2e = std::distance(v.begin(), v.end()); // 3
+const int e2b = std::distance(v.end(), v.begin()); // -3
+```
+
+## std::binary_search
+To check if a specified value exists in a sorted range of elements
+1. Default
+``` cpp
+#include<algorithm>
+std::vector<int> numbers = {1, 2, 3, 4, 5};
+int target = 3;
+bool hasFound = std::binary_search(numbers.begin(), numbers.end(), target);
+```
+
+2. Custom comparison
+``` cpp
+std::vector<int> numbers = {5, 4, 3, 2, 1};
+int target = 3;
+bool hasFound = std::binary_search(numbers.begin(), numbers.end(), target,
+                                   [](const int a, const int b) 
+                                   {
+                                         // Return true if a should be placed before b in the sorted order
+                                         return a > b;
+                                   });
+```
