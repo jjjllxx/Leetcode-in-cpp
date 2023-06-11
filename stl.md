@@ -105,3 +105,5 @@ bool hasFound = std::binary_search(numbers.begin(), numbers.end(), target,
                                          return a > b;
                                    });
 ```
+## std::accumulate
+## std::max_element, std::min_element
