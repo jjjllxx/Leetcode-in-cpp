@@ -107,3 +107,4 @@ bool hasFound = std::binary_search(numbers.begin(), numbers.end(), target,
 ```
 ## std::accumulate
 ## std::max_element, std::min_element
+## std::memset
