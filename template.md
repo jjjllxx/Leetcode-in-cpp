@@ -1,3 +1,29 @@
+## Binary Search
+### lower bound(find first element which equals to(greater than) target
+``` cpp
+int findLowerBound(const std::vector<int>& nums, int target)
+{
+     int left = 0, right = nums.size() - 1; // must use int here to handle -1
+     while (left <= right)
+     {
+         int mid = ((right - left) >> 1) + left;
+         if (nums[mid] < target)
+         {
+             left = mid + 1;
+         }
+         else
+         {
+             right = mid - 1;
+         }
+     }
+
+     return left;
+}
+```
+Notes:
+1. If every element is less than target, return the size of array.
+2. If every element is greater than target, return 0.
+
 ## Union Find(Disjoint Set)
 ``` cpp
 std::vector<int> root;
