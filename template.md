@@ -19,7 +19,7 @@ int findLowerBound(const std::vector<int>& nums, int target)
          }
      }
 
-     return left;
+     return left; // right + 1
 }
 ```
 Notes:
@@ -56,7 +56,7 @@ Both left and right are open intervals: (left, right)
 int findLowerBound(const std::vector<int>& nums, int target)
 {
      int left = -1, right = nums.size();
-     while (left <= right)
+     while (left + 1 < right)
      {
          int mid = ((right - left) >> 1) + left;
          if (nums[mid] < target)
@@ -69,7 +69,7 @@ int findLowerBound(const std::vector<int>& nums, int target)
          }
      }
 
-     return right;
+     return right; // left + 1
 }
 ```
 ### lower bound(>)
