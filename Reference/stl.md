@@ -65,7 +65,9 @@ const int ub4 = *st.upper_bound(4); // returns an iterator to the first element 
 ```
 
 ## std::map & std::unordered_map
+
 ## std::multiset & std::multimap
+
 ## std::upper_bound & std::lower_bound
 
 # Functions
@@ -106,5 +108,7 @@ bool hasFound = std::binary_search(numbers.begin(), numbers.end(), target,
                                    });
 ```
 ## std::accumulate
+
 ## std::max_element, std::min_element
+
 ## std::memset
