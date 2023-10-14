@@ -37,3 +37,10 @@ void bt(const int          pos,
     }
 }
 ```
+
+## Combination
+Select a combination of `k` from `n` can be assumed as a fixed-length subset.  
+Time Complexity O(k $C_n^k$). Space Complexity O(k).
+### Prune Skill
+Assuming `m` of numbers has been selected, then still need to select d = k - m of numbers.
+If the number of numbers to be selected is less than d, then can stop considering this situation.
