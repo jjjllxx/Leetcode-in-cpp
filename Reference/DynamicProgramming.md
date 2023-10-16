@@ -84,3 +84,23 @@ dfs(i, c) = min(dfs(i - 1, c) + dfs(i, c - w[i]) + v[i]) // recursion
 f[i][c] = min(f[i - 1][c], f[i][c - w[i]] + v[i]) // use memorization array
 f[i + 1][c] = min(f[i][c], f[i + 1][c - w[i]] + v[i]) // to avoid negative index
 ```
+## Longest Common Subsequence (LCS)
+### Definition
+1. subarray/substring: continuous
+2. subsequence: do not have to be continous
+
+### Formula
+Assuming string `s` and `t`:
+``` cpp
+dfs(i, j) = max(dfs(i - 1, j), dfs(i, j - 1), dfs(i - 1, j - 1) + s[i] != t[j])
+```
+Simplify to:
+``` cpp
+dfs(i, j) = dfs(i - 1, j - 1) + 1               s[i] == t[j];
+dfs(i, j) = max(dfs(i, j - 1), dfs(i, j - 1))   s[i] != t[j];
+```
+### Edit Distance
+``` cpp
+dfs(i, j) = dfs(i - 1, j - 1)                                         s[i] == t[j];
+dfs(i, j) = min(dfs(i, j - 1), dfs(i, j - 1), dfs(i - 1, j - 1)) + 1  s[i] != t[j];
+```
